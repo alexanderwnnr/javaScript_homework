@@ -1,0 +1,1 @@
+myunique.insertAdjacentHTML('beforebegin', '<li>!!!</li>')

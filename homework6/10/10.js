@@ -1,0 +1,1 @@
+myunique.onclick = () => console.log(myunique.tagName.toLowerCase())

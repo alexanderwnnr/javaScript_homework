@@ -1,0 +1,1 @@
+myunique.classList.contains('www')
